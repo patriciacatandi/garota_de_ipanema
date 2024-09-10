@@ -1,0 +1,1 @@
+# arquivo para funções de validação
